@@ -89,7 +89,7 @@ Removing non-homogeneous haze from real-world images is a challenging task. Mean
     
     '--model_name', help="Set the name to model file, model files shoud be placed in 'model' floder”
     
-    '--downsample_factor', help="Set upsacle factor form ['1','0.5','0.25'],'1' means no any downsample to input and diractly output orianl size of the input image”
+    '--downsample_factor', help="Set upsacle factor form ['1','0.5','0.25'],'1' means no any downsampling to input and diractly output orianl size of the input image”
     
 4. The results are saved in the "result" folder.
 
