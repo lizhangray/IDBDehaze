@@ -72,9 +72,9 @@ Removing non-homogeneous haze from real-world images is a challenging task. Mean
     ```
     
 2. Download Test Set and Models
-    1. Test Set：[click here to jump](dataset)
-    2. Models：[click here to jump](model)
-    3. Res2Net weight：[click here to jump](weights)
+    1. Test Set：[click here to download](https://drive.google.com/drive/folders/1ozIxhpJn5mIUI6DEv4oEXLd4ClZf28zf?usp=sharing)
+    2. Models：[click here to download](https://drive.google.com/drive/folders/1niZegxvEzA5Goq74lfSjHrdBtzSGkgLB?usp=sharing)
+    3. Res2Net weight：[click here to download](https://drive.google.com/drive/folders/1087h2I14YmeGZ-1eWSp-8yGgNrdoV4Yt?usp=drive_link)
 3. Run eval
     
     ```python
@@ -103,18 +103,18 @@ Removing non-homogeneous haze from real-world images is a challenging task. Mean
 
 # Example：
 
-## result on HD-NH-HAZE：[Download](example/HD-NH-HAZE.zip)
+## result on HD-NH-HAZE：[Download](https://drive.google.com/file/d/1uRyFic3JZxsM7XM_x3nEN68_-1DinY2S/view?usp=sharing)
 
 1. with 2x downsampling
 2. with 4x downsampling
 
-## result on NH-HAZE2：[Download](example/NH-HAZE2.zip)
+## result on NH-HAZE2：[Download](https://drive.google.com/file/d/1KAGzTOHut_m4Mqn4krhcYvHH23JVBqHR/view?usp=sharing)
 
 1. with 2x downsampling
 2. with 4x downsampling
 3. without downsampling
 
-## result on NH-HAZE：[Download](example/NH-HAZE.zip)
+## result on NH-HAZE：[Download](https://drive.google.com/file/d/1SikHxueQ86e8TGRX13IWZDCEmEpgODfz/view?usp=sharing)
 
 1. with 2x downsampling
 2. with 4x downsampling
