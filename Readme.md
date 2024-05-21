@@ -2,7 +2,7 @@
 
 # ****Basic Information****
 
-1. This repository contains the official implementation of the following paper:《Isomorphic Dual-Branch Network for Non-homogeneous Image Dehazing and Super-Resolution》**Paper Link:** [https://doi.org/10.1007/978-981-99-8073-4_3](https://doi.org/10.1007/978-981-99-8073-4_3)
+1. This repository contains the official implementation of the following paper: "Isomorphic Dual-Branch Network for Non-homogeneous Image Dehazing and Super-Resolution" **Paper Link:** [https://doi.org/10.1007/978-981-99-8073-4_3](https://doi.org/10.1007/978-981-99-8073-4_3)
 2. Authors: Wenqing Kuang, Zhan Li, Ruijin Guan, Weijun Yuan, Ruting Deng, and Yanquan Chen
 3. Affiliation: Department of Computer Science, Jinan University, Guangzhou 510632, China
     
